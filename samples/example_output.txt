@@ -1,0 +1,9 @@
+p3 SKIP   below priority 4: Backup finished
+p5 SPEAK  Urgent. Meta Read Failed. Token expired on the ad account read, 3 retries used.
+p4 SPEAK  Disk 91% on box 1. Free space 7 GB, cleanup job queued.
+p5 SKIP   same text within 60s: Meta Read Failed
+p4 SPEAK  Deploy blocked. See the build log link for the failing step.
+p4 SPEAK  Queue stalled. The mission queue has had no completed task for 45 minutes and 12 tasks are waiting, the last worker heartbeat was at 09:14.
+p2 SKIP   below priority 4: Low priority note
+p5 SPEAK  Urgent. Meta Read Failed. Token expired on the ad account read, 3 retries used.
+summary: 8 messages, 5 spoken, 2 filtered, 1 duplicates, 0 dropped, 0 errors

@@ -1,0 +1,10 @@
+{"id": "o1", "time": 1794000000, "event": "open", "topic": "fleet-alerts"}
+{"id": "m1", "time": 1794000001, "event": "message", "topic": "fleet-alerts", "title": "Backup finished", "message": "Nightly vault backup ok, 4.1 GB", "priority": 3, "tags": ["white_check_mark"]}
+{"id": "m2", "time": 1794000030, "event": "message", "topic": "fleet-alerts", "title": "Meta Read Failed", "message": "Token expired on the ad account read, 3 retries used.", "priority": 5, "tags": ["rotating_light"]}
+{"id": "k1", "time": 1794000040, "event": "keepalive", "topic": "fleet-alerts"}
+{"id": "m3", "time": 1794000045, "event": "message", "topic": "fleet-alerts", "title": "Disk 91% on box 1", "message": "Free space 7 GB, cleanup job queued", "priority": 4, "tags": ["warning"]}
+{"id": "m4", "time": 1794000050, "event": "message", "topic": "fleet-alerts", "title": "Meta Read Failed", "message": "Token expired on the ad account read, 3 retries used.", "priority": 5, "tags": ["rotating_light"]}
+{"id": "m5", "time": 1794000060, "event": "message", "topic": "fleet-alerts", "title": "**Deploy blocked** \ud83d\udea8", "message": "See [the build log](https://example.com/builds/1234?x=1) for the failing step", "priority": 4, "tags": []}
+{"id": "m6", "time": 1794000070, "event": "message", "topic": "fleet-alerts", "title": "Queue stalled", "message": "The mission queue has had no completed task for 45 minutes and 12 tasks are waiting, the last worker heartbeat was at 09:14 and the restart attempt did not change anything", "priority": 4, "tags": []}
+{"id": "m7", "time": 1794000075, "event": "message", "topic": "fleet-alerts", "title": "Low priority note", "message": "Digest ready", "priority": 2, "tags": []}
+{"id": "m8", "time": 1794000130, "event": "message", "topic": "fleet-alerts", "title": "Meta Read Failed", "message": "Token expired on the ad account read, 3 retries used.", "priority": 5, "tags": ["rotating_light"]}
